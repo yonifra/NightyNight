@@ -1,0 +1,12 @@
+c:\users\jonathanf.avt_server\documents\visual studio 2012\Projects\NightyNight\NightyNight\bin\Release\NightyNight.exe.config
+c:\users\jonathanf.avt_server\documents\visual studio 2012\Projects\NightyNight\NightyNight\bin\Release\NightyNight.exe
+c:\users\jonathanf.avt_server\documents\visual studio 2012\Projects\NightyNight\NightyNight\bin\Release\NightyNight.pdb
+c:\users\jonathanf.avt_server\documents\visual studio 2012\Projects\NightyNight\NightyNight\obj\Release\MainWindow.baml
+c:\users\jonathanf.avt_server\documents\visual studio 2012\Projects\NightyNight\NightyNight\obj\Release\MainWindow.g.cs
+c:\users\jonathanf.avt_server\documents\visual studio 2012\Projects\NightyNight\NightyNight\obj\Release\App.g.cs
+c:\users\jonathanf.avt_server\documents\visual studio 2012\Projects\NightyNight\NightyNight\obj\Release\NightyNight_MarkupCompile.cache
+c:\users\jonathanf.avt_server\documents\visual studio 2012\Projects\NightyNight\NightyNight\obj\Release\NightyNight.g.resources
+c:\users\jonathanf.avt_server\documents\visual studio 2012\Projects\NightyNight\NightyNight\obj\Release\NightyNight.Properties.Resources.resources
+c:\users\jonathanf.avt_server\documents\visual studio 2012\Projects\NightyNight\NightyNight\obj\Release\NightyNight.csproj.GenerateResource.Cache
+c:\users\jonathanf.avt_server\documents\visual studio 2012\Projects\NightyNight\NightyNight\obj\Release\NightyNight.exe
+c:\users\jonathanf.avt_server\documents\visual studio 2012\Projects\NightyNight\NightyNight\obj\Release\NightyNight.pdb

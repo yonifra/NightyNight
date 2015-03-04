@@ -1,0 +1,25 @@
+﻿<Window x:Class="NightyNight.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Nighty Night" Height="150" Width="355"
+        WindowStartupLocation="CenterScreen" Icon="Dan-Wiersma-Solar-System-Moon.ico">
+    <Grid VerticalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        
+        <StackPanel Orientation="Vertical" Grid.ColumnSpan="2" Margin="5">
+        <TextBlock Text="Shutdown in x minutes:" TextWrapping="Wrap" />
+        <TextBox x:Name="ShutdownTimeTextBox" VerticalAlignment="Center" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center"
+                 FontSize="28" FontFamily="Arial"/>
+        </StackPanel>
+
+        <Button Content="Start" Click="StartButton_OnClick" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Stretch" Margin="5" FontSize="22"></Button>
+        <Button Content="Abort" Click="AbortButton_OnClick"  Grid.Row="1" Grid.Column="0" HorizontalAlignment="Stretch" Margin="5" FontSize="22"></Button>
+    </Grid>
+</Window>
